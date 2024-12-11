@@ -69,4 +69,6 @@ To modify the grid size, update `ROWS` and `COLS` accordingly. Ensure other cons
 ### Difficulty
 Adjust the chance of spawning higher-value tiles by modifying the `random.choice([2, 4])` in the `end_move` function.
 
+## License 
+This project is licensed under the MIT License - https://github.com/0maaz-01/2048/blob/main/LICENSE
 ---
