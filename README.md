@@ -72,3 +72,4 @@ Adjust the chance of spawning higher-value tiles by modifying the `random.choice
 ## License 
 This project is licensed under the MIT License - https://github.com/0maaz-01/2048/blob/main/LICENSE
 ---
+## [Visit My Website](https://www.maazverse.com/)
